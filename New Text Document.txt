@@ -1,2 +1,3 @@
 testing commit message hard wrapping
 testing again
+test toggle hard wrap
